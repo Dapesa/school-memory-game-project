@@ -1,0 +1,87 @@
+{
+  "default": {
+    "icon": "https://www.svgrepo.com/download/491474/question-circle.svg",
+    "english": "Default",
+    "portuguese": "Padrão"
+  },
+  "police officer": {
+    "icon": "https://www.svgrepo.com/download/279515/police-badge-police.svg",
+    "english": "Police Officer",
+    "portuguese": "Policial"
+  },
+  "lumberjack": {
+    "icon": "https://www.svgrepo.com/download/139620/axe.svg",
+    "english": "Lumberjack",
+    "portuguese": "Lenhador"
+  },
+  "medic": {
+    "icon": "https://www.svgrepo.com/download/155828/first-aid-kit.svg",
+    "english": "Medic",
+    "portuguese": "Médico"
+  },
+  "nurse": {
+    "icon": "https://www.svgrepo.com/download/454844/nurse.svg",
+    "english": "Nurse",
+    "portuguese": "Enfermeira"
+  },
+  "hairdresser": {
+    "icon": "https://www.svgrepo.com/download/479935/hair-salon-2.svg",
+    "english": "Hairdresser",
+    "portuguese": "Cabeleleiro"
+  },
+  "mechanic": {
+    "icon": "https://www.svgrepo.com/download/437365/wrench.svg",
+    "english": "Mechanic",
+    "portuguese": "Mecânico"
+  },
+  "engineer": {
+    "icon": "https://www.svgrepo.com/download/532244/gear.svg",
+    "english": "Engineer",
+    "portuguese": "Engenheiro"
+  },
+  "electrician": {
+    "icon": "https://www.svgrepo.com/download/509097/energy.svg",
+    "english": "Electrician",
+    "portuguese": "Eletricista"
+  },
+  "writer": {
+    "icon": "https://www.svgrepo.com/download/532991/pen-nib.svg",
+    "english": "Writer",
+    "portuguese": "Escritor"
+  },
+  "musician": {
+    "icon": "https://www.svgrepo.com/download/532708/music.svg",
+    "english": "Musician",
+    "portuguese": "Músico"
+  },
+  "priest": {
+    "icon": "https://www.svgrepo.com/download/478725/cross-2.svg",
+    "english": "Priest",
+    "portuguese": "Padre"
+  },
+  "garbageman": {
+    "icon": "https://www.svgrepo.com/download/55271/trash-collector.svg",
+    "english": "Trash Collector",
+    "portuguese": "Lixeiro"
+  },
+  "farmer": {
+    "icon": "https://www.svgrepo.com/download/18359/pitchfork.svg",
+    "english": "Farmer",
+    "portuguese": "Fazendeiro"
+  },
+  "gravedigger": {
+    "icon": "https://www.svgrepo.com/download/41773/shovel.svg",
+    "english": "Gravedigger",
+    "portuguese": "Coveiro"
+  },
+  "taxi driver": {
+    "icon": "https://www.svgrepo.com/download/433823/taxi-o.svg",
+    "english": "Taxi Driver",
+    "portuguese": "Taxista"
+  },
+  "teacher": {
+    "icon": "https://www.svgrepo.com/download/907/pencil.svg",
+    "english": "Teacher",
+    "portuguese": "Professor"
+  }
+}
