@@ -1,70 +1,19 @@
 {
-  "Default": {
-    "icon": "https://www.svgrepo.com/download/491474/question-circle.svg",
-    "portuguese": "Padrão"
-  },
-  "Police officer": {
-    "icon": "https://www.svgrepo.com/download/279515/police-badge-police.svg",
-    "portuguese": "Policial"
-  },
-  "Lumberjack": {
-    "icon": "https://www.svgrepo.com/download/139620/axe.svg",
-    "portuguese": "Lenhador"
-  },
-  "Medic": {
-    "icon": "https://www.svgrepo.com/download/155828/first-aid-kit.svg",
-    "portuguese": "Médico"
-  },
-  "Nurse": {
-    "icon": "https://www.svgrepo.com/download/454844/nurse.svg",
-    "portuguese": "Enfermeira"
-  },
-  "Hairdresser": {
-    "icon": "https://www.svgrepo.com/download/479935/hair-salon-2.svg",
-    "portuguese": "Cabeleleiro"
-  },
-  "Mechanic": {
-    "icon": "https://www.svgrepo.com/download/437365/wrench.svg",
-    "portuguese": "Mecânico"
-  },
-  "Engineer": {
-    "icon": "https://www.svgrepo.com/download/532244/gear.svg",
-    "portuguese": "Engenheiro"
-  },
-  "Electrician": {
-    "icon": "https://www.svgrepo.com/download/509097/energy.svg",
-    "portuguese": "Eletricista"
-  },
-  "Writer": {
-    "icon": "https://www.svgrepo.com/download/532991/pen-nib.svg",
-    "portuguese": "Escritor"
-  },
-  "Musician": {
-    "icon": "https://www.svgrepo.com/download/532708/music.svg",
-    "portuguese": "Músico"
-  },
-  "Priest": {
-    "icon": "https://www.svgrepo.com/download/478725/cross-2.svg",
-    "portuguese": "Padre"
-  },
-  "Garbageman": {
-    "icon": "https://www.svgrepo.com/download/55271/trash-collector.svg",
-    "portuguese": "Lixeiro"
-  },
-  "Farmer": {
-    "icon": "https://www.svgrepo.com/download/18359/pitchfork.svg",
-    "portuguese": "Fazendeiro"
-  },
-  "Gravedigger": {
-    "icon": "https://www.svgrepo.com/download/41773/shovel.svg",
-    "portuguese": "Coveiro"
-  },
-  "Taxi driver": {
-    "icon": "https://www.svgrepo.com/download/433823/taxi-o.svg",
-    "portuguese": "Taxista"
-  },
-  "Teacher": {
-    "icon": "https://www.svgrepo.com/download/907/pencil.svg",
-    "portuguese": "Professor"
-  }
+  "default": "https://www.svgrepo.com/download/491474/question-circle.svg",
+  "police officer": "https://www.svgrepo.com/download/279515/police-badge-police.svg",
+  "lumberjack": "https://www.svgrepo.com/download/139620/axe.svg",
+  "medic": "https://www.svgrepo.com/download/155828/first-aid-kit.svg",
+  "nurse": "https://www.svgrepo.com/download/454844/nurse.svg",
+  "hairdresser": "https://www.svgrepo.com/download/479935/hair-salon-2.svg",
+  "mechanic": "https://www.svgrepo.com/download/437365/wrench.svg",
+  "engineer": "https://www.svgrepo.com/download/532244/gear.svg",
+  "electrician": "https://www.svgrepo.com/download/509097/energy.svg",
+  "writer": "https://www.svgrepo.com/download/532991/pen-nib.svg",
+  "musician": "https://www.svgrepo.com/download/532708/music.svg",
+  "priest": "https://www.svgrepo.com/download/478725/cross-2.svg",
+  "garbageman": "https://www.svgrepo.com/download/55271/trash-collector.svg",
+  "farmer": "https://www.svgrepo.com/download/18359/pitchfork.svg",
+  "gravedigger": "https://www.svgrepo.com/download/41773/shovel.svg",
+  "taxi driver": "https://www.svgrepo.com/download/433823/taxi-o.svg",
+  "teacher": "https://www.svgrepo.com/download/907/pencil.svg"
 }
